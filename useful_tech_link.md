@@ -1,7 +1,7 @@
 ---
 # USEFULL TECH LINK
 ---
-## AI (Artificial Intelligence)
+## Machine Learning & Deep Learning
 * Qix Machine Learning & Deep Learning resourse     
 	* [Chapter 1](https://github.com/ty4z2008/Qix/blob/master/dl.md)
 	* [Chapter 2](https://github.com/ty4z2008/Qix/blob/master/dl2.md)   
